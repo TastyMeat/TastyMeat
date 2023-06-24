@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=tastymeat&theme=react&show_icons=true&hide_border=true&count_private=true&include_orgs=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tastymeat&theme=react&show_icons=true&hide_border=true&include_orgs=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tastymeat)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Project showcase
 
