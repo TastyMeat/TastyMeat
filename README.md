@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 -->
 ## Project showcase
 
-### [ Prototype Unity Games ] | Game Jam Submissions
+### \[ Prototype Unity Games \] \| Game Jam Submissions
 [<img src=https://img.itch.zone/aW1nLzg1OTA0MTEucG5n/315x250%23c/XIdNHQ.png>](https://specturnal.itch.io/fight-the-darkness)
 [<img src=https://img.itch.zone/aW1nLzMyOTA2ODIucG5n/315x250%23c/5SIV3y.png>](https://specturnal.itch.io/dumb-ways-to-doctor)
 
 Click to try out ^ and check out more [here](https://specturnal.itch.io/)!
 
-### [ Super Fowl Fists ] | GameEngine / Game
+### \[ Super Fowl Fists \] \| GameEngine / Game
 Game prototype developed using a custom C++ game engine :D
 
 Check it out [here](https://github.com/TastyMeat/CSCI-178-Game-Development-Engine)!
 
 [![Video](https://img.youtube.com/vi/x5qkQMULqoI/hqdefault.jpg)](https://www.youtube.com/watch?v=x5qkQMULqoI)
 
-### [ 2D Top-down Conveyor System for Unity ] | GameAsset
+### \[ 2D Top-down Conveyor System for Unity \] \| GameAsset
 Unity asset package for games featuring flexible tile-based conveyor belt system to add more fun into game worlds
 
 Check it out [here](https://github.com/Specturnal/Unity-2D-Conveyor-System)!
