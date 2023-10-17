@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 -->
 ## Project showcase
 
+### [ Prototype Unity Games ] | Game Jam Submissions
+[<img src=https://img.itch.zone/aW1nLzg1OTA0MTEucG5n/315x250%23c/XIdNHQ.png>](https://specturnal.itch.io/fight-the-darkness)
+[<img src=https://img.itch.zone/aW1nLzMyOTA2ODIucG5n/315x250%23c/5SIV3y.png>](https://specturnal.itch.io/dumb-ways-to-doctor)
+
+Click to try out ^ and check out more [here](https://specturnal.itch.io/)!
+
 ### [ Super Fowl Fists ] | GameEngine / Game
 Game prototype developed using a custom C++ game engine :D
 
