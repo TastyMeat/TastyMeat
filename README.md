@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## Project showcase
 
 ### \[ Prototype Unity Games \] \| Game Jam Submissions
-[<img src=https://img.itch.zone/aW1nLzg1OTA0MTEucG5n/315x250%23c/XIdNHQ.png>](https://specturnal.itch.io/fight-the-darkness-multiplayer)
-[<img src=https://img.itch.zone/aW1nLzE0NTg0NTg5LnBuZw==/315x250%23c/AFa80U.png>](https://specturnal.itch.io/dumb-ways-to-doctor-re)
+[<img src="https://img.itch.zone/aW1nLzg1OTA0MTEucG5n/315x250%23c/XIdNHQ.png">](https://specturnal.itch.io/fight-the-darkness-multiplayer)
+[<img src="https://img.itch.zone/aW1nLzE0NTg0NTg5LnBuZw==/315x250%23c/AFa80U.png">](https://specturnal.itch.io/dumb-ways-to-doctor-re)
 
 Click to try out ^ and check out more [here](https://specturnal.itch.io/)!
 
